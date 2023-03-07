@@ -1,4 +1,4 @@
-* New users tutorial LS
+* New user tutorial LS
 
 The different image sources:
 - Legacy Surveys DR10 images
